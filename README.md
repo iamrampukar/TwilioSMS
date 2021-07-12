@@ -1,2 +1,1 @@
 # TwilioSMS
-TwilioSMS Description.
